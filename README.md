@@ -7,8 +7,8 @@ Previously at Google Pixel and Microsoft Ads.
 ## Featured Projects
 
 ### Paira
-AI networking and request-based social platform on both desktop and mobile view. Typescript/REACT/Python
-</br> https://www.paira.org/
+AI networking and request-based social platform on both desktop and mobile view. Typescript/REACT/Python  
+https://www.paira.org/
 
 ### Fowlerville Library App
 React Native mobile experience for local libraries. 
